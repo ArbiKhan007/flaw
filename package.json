@@ -17,5 +17,8 @@
     "spiderman"
   ],
   "author": "Genius",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "twilio": "^3.44.0"
+  }
 }
